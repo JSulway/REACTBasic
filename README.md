@@ -1,2 +1,2 @@
 # REACTBasic
-Very Basic REACT - Hello world
+Basic REACT - Hello world
